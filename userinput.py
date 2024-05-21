@@ -31,3 +31,5 @@
 #
 # print(f'The total price for {quantity}X{item} is ${round(total,2)}')
 
+name = input("Enter you name: ")
+print("Hello", name )
